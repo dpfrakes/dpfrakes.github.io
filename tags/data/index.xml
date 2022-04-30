@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>data on Dan Frakes</title>
+    <link>https://dpfrakes.github.io/tags/data/</link>
+    <description>Recent content in data on Dan Frakes</description>
+    <image>
+      <url>https://dpfrakes.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://dpfrakes.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://dpfrakes.github.io/tags/data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data-Driven World</title>
+      <link>https://dpfrakes.github.io/posts/data-driven/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/data-driven/</guid>
+      <description>Everything now is data-driven. E-commerce vendors that can&amp;rsquo;t accurately make personalized product recommendations will inevitably fail to compete with those that can. Successful political campaigns rely on polling data and other quantified public sentiment in order to determine into which states and demographics are worth investing time and money.
+This is not a new phenomenon: only a new buzzword.
+&amp;ldquo;Data&amp;rdquo; is just information. Commercial enterprises have always needed to know what products are worth building and what services are worth offering.</description>
+    </item>
+    
+    <item>
+      <title>Digital Forensics</title>
+      <link>https://dpfrakes.github.io/posts/digital-forensics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/digital-forensics/</guid>
+      <description>Exploring the magic black box of .git
+What happened and when? When something breaks, and you have no idea where to start, try a manual binary search through the git log.
+ something is currently broken we don&amp;rsquo;t know when it broke / when it last worked  What to do
+ git log --pretty=format:&amp;quot;%ci | %h&amp;quot; --no-merges -- tools/ui-ide/package.json Start at middle commit ID check out commit ID and run whatever idempotent script you need to put comment next to commit ID If it works, pick commit ID halfway between that one and last-tried future commit (or latest commit) If it doesn&amp;rsquo;t work, pick commit ID halfway between that one and last-tried past commit (or first commit) Repeat from step 3 with new commit ID  Once this is done, you&amp;rsquo;ll have determined which commit ID broke everything and you can blame the developer who created that commit</description>
+    </item>
+    
+  </channel>
+</rss>

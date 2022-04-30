@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>productivity on Dan Frakes</title>
+    <link>https://dpfrakes.github.io/tags/productivity/</link>
+    <description>Recent content in productivity on Dan Frakes</description>
+    <image>
+      <url>https://dpfrakes.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://dpfrakes.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://dpfrakes.github.io/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Customizing Your Setup</title>
+      <link>https://dpfrakes.github.io/posts/customize-setup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/customize-setup/</guid>
+      <description>Binaries Node Version Manager NVM
+ZSH oh-my-zsh and its benefits
+~/.zsh_aliases Homebrew (Mac) /bin/bash -c &amp;#34;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)&amp;#34; Python 3 Python 2 is dead, but Mac can&amp;rsquo;t let it go yet.
+Cut in line by adding a symlink to python3:
+brew install python ln -s /usr/local/bin/python3 /usr/local/bin/python python2 is already an alias for you, so on the off-chance you actually want to run python 2 for something, you can still access it</description>
+    </item>
+    
+    <item>
+      <title>Dev Toolkit</title>
+      <link>https://dpfrakes.github.io/posts/dev-toolkit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/dev-toolkit/</guid>
+      <description>Most companies and products have their own &amp;ldquo;tech stack&amp;rdquo; or list of technologies they use in their proprietary tools. As a pro user, I&amp;rsquo;m always looking for ways to enable the most capabilities, speed up my workflow, and - ideally - find free ways to do so.
+Photos and Images  Skitch - image redaction  TODO replace with custom app to auto-redact (OCR) images, including gifs    </description>
+    </item>
+    
+    <item>
+      <title>Digital Forensics</title>
+      <link>https://dpfrakes.github.io/posts/digital-forensics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/digital-forensics/</guid>
+      <description>Exploring the magic black box of .git
+What happened and when? When something breaks, and you have no idea where to start, try a manual binary search through the git log.
+ something is currently broken we don&amp;rsquo;t know when it broke / when it last worked  What to do
+ git log --pretty=format:&amp;quot;%ci | %h&amp;quot; --no-merges -- tools/ui-ide/package.json Start at middle commit ID check out commit ID and run whatever idempotent script you need to put comment next to commit ID If it works, pick commit ID halfway between that one and last-tried future commit (or latest commit) If it doesn&amp;rsquo;t work, pick commit ID halfway between that one and last-tried past commit (or first commit) Repeat from step 3 with new commit ID  Once this is done, you&amp;rsquo;ll have determined which commit ID broke everything and you can blame the developer who created that commit</description>
+    </item>
+    
+    <item>
+      <title>Git Statistics</title>
+      <link>https://dpfrakes.github.io/posts/git-stats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/git-stats/</guid>
+      <description>git log -&amp;gt; database
+set up dashboard to:
+ Refresh on demand visualize repo activity compare contributors&#39; contributions (rate, volume)  Advanced feature: PR duration (between open and merge/close)? average # comments?</description>
+    </item>
+    
+    <item>
+      <title>JS Bookmarklets</title>
+      <link>https://dpfrakes.github.io/posts/web-snippets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/web-snippets/</guid>
+      <description>I have way too many browser bookmarks, but there is one folder of bookmarks I use regularly: bookmarklets.
+Just as you can save an HTML webpage as a bookmark, you can also save Javascript script as a bookmarklet, basically turning your bookmarks bar into a control panel.
+javascript:(function(){alert(&amp;#39;hello!&amp;#39;)})() caption: a very basic javascript snippet
+Caution: make sure you know exactly what the bookmarklet is going to do before you run it or add it to your bookmarks bar.</description>
+    </item>
+    
+    <item>
+      <title>Slow Practice</title>
+      <link>https://dpfrakes.github.io/posts/slow-practice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/slow-practice/</guid>
+      <description>Practice In music:
+ &amp;ldquo;One must practice slowly, then more slowly, and finally slowly.&amp;rdquo;
+–Camille Saint-Saens
+ In woodworking:
+ &amp;ldquo;Measure twice, cut once.&amp;rdquo;
+–Anonymous
+ In programming:
+ &amp;ldquo;Programming is a skill best acquired by practice and example rather than from books.&amp;rdquo;
+–Alan Turing
+ Practice is a Lost Art My Dad has a fairly cynical sense of humor which is likely the source of his interest in &amp;ldquo;trollable&amp;rdquo; axioms.</description>
+    </item>
+    
+  </channel>
+</rss>
