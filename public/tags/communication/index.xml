@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>communication on Dan Frakes</title>
+    <link>https://dpfrakes.github.io/tags/communication/</link>
+    <description>Recent content in communication on Dan Frakes</description>
+    <image>
+      <url>https://dpfrakes.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://dpfrakes.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://dpfrakes.github.io/tags/communication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Language Overload</title>
+      <link>https://dpfrakes.github.io/posts/language-overload/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/language-overload/</guid>
+      <description>Language and Tool Overload Context matters - Key value, as in &amp;ldquo;important concept&amp;rdquo; or key/value as in &amp;ldquo;hashtable lookup&amp;rdquo;? Synonym diarrhea - Component/module, feature/attribute
+Overlap Many tools are virtually interchangeable:
+Does Ansible do the same thing as Terraform? Podman and Docker React, Angular, Vue
+stackshare.io</description>
+    </item>
+    
+    <item>
+      <title>Speaking Tech</title>
+      <link>https://dpfrakes.github.io/posts/speaking-tech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/speaking-tech/</guid>
+      <description>Bridging the gap between askers and builders Advice, anecdotes, notes about how to effectively communicate with engineers as a non-technical person.
+house analogy
+ Just add ___  Changing &amp;ldquo;just one piece of wood&amp;rdquo; on the outside of the house is not the same as replacing a stud    </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dan Frakes</title>
+    <link>https://dpfrakes.github.io/</link>
+    <description>Recent content on Dan Frakes</description>
+    <image>
+      <url>https://dpfrakes.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://dpfrakes.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 30 Apr 2022 01:05:55 -0400</lastBuildDate><atom:link href="https://dpfrakes.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://dpfrakes.github.io/posts/my-first-post/</link>
+      <pubDate>Sat, 30 Apr 2022 01:05:55 -0400</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/my-first-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>AI Shared Responsibility</title>
+      <link>https://dpfrakes.github.io/posts/ai-shared-responsibility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/ai-shared-responsibility/</guid>
+      <description>Opportunity for True Teamwork Who&amp;rsquo;s to blame when an AI-driven tool does something bad?
+VW GTI diesel scandal: executive blamed a &amp;ldquo;rogue engineer&amp;rdquo;
+MIT Moral Machine
+Lots of complaints about billionaires profiting off their employees (what boss doesn&amp;rsquo;t, btw?) and not taking enough responsibility while fostering a false &amp;ldquo;when you&amp;rsquo;re here, you&amp;rsquo;re family&amp;rdquo; work environment.
+Let&amp;rsquo;s keep AI a team sport.
+Racial bias is all over the news nowadays. While we should be reporting on the incredible potential for AI to address global-scale problems, we&amp;rsquo;re instead trying to fix false positives in facial recognition software that misidentifies black people more often than white people.</description>
+    </item>
+    
+    <item>
+      <title>Analogies and Illustrations of a Computer</title>
+      <link>https://dpfrakes.github.io/posts/tech-stack-visualization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/tech-stack-visualization/</guid>
+      <description>Basics  Directories, files, and executables Hard drives HTTP  Intermediate  VPN (tunnel) $PATH (&amp;ldquo;cutting in line&amp;rdquo; analogy)  Advanced  Database indexing (creating a table of contents) Virtual environments, Docker Cache, RAM, storage SSD vs HDD ML algorithms  </description>
+    </item>
+    
+    <item>
+      <title>Annoying by Design</title>
+      <link>https://dpfrakes.github.io/posts/annoying-by-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/annoying-by-design/</guid>
+      <description>It&amp;rsquo;s no secret that the most successful apps, games, and social media platforms dedicate considerable effort into making their product addictive. If they don&amp;rsquo;t, consumers would be less likely to use their product, making it less valuable to advertisers.
+I&amp;rsquo;d considered making a social media aggregator application that removes addictive &amp;ldquo;features,&amp;rdquo; such as infinite scroll, targeted advertising, and notification badges, but I decided it would not be worth the time since I&amp;rsquo;m rarely on Facebook anyway.</description>
+    </item>
+    
+    <item>
+      <title>Bi-Directional Data Architecture</title>
+      <link>https://dpfrakes.github.io/posts/bidirectional-data-architecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/bidirectional-data-architecture/</guid>
+      <description>I constantly think of software, data, and other technical components of my job in terms of analogies. It&amp;rsquo;s a great teaching mechanism, particularly for visual learners such as myself.
+Analogies have greatly impacted terminology in software for a long time. Data pipelines are so named as information &amp;ldquo;flows&amp;rdquo; from a source to a destination. Neural networks, and their building blocks called perceptrons, are named after neurological terminology since the design of these structures was inspired by the brain.</description>
+    </item>
+    
+    <item>
+      <title>Business Ethics</title>
+      <link>https://dpfrakes.github.io/posts/decision-and-ethics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/decision-and-ethics/</guid>
+      <description>Decision making should remain with people. Data gathering, analysis, and even recommendations may (and in many cases, should) fall to technology, including AI, but people should always be the one to pull the trigger - metaphorically and certainly literally.
+Business idea: the differentiating factor for Frakes, Inc. is that we will always reserve the right to revoke our customers&#39; rights. Obviously this is not because we&amp;rsquo;d ever want to, but because we don&amp;rsquo;t want to be like Apple.</description>
+    </item>
+    
+    <item>
+      <title>Change Your Password</title>
+      <link>https://dpfrakes.github.io/posts/change-password/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/change-password/</guid>
+      <description>UI has an innate ability to instill a variety of emotions in users. A dashboard full of green-background rows invokes satisfaction. A single red exclamation mark icon amidst a sea of green checkmarks should draw attention to itself like a bad spy behind enemy lines and serve as a nuisance to the user like a popcorn kernel stuck in their gums.
+Bad passwords, old passwords, and re-used passwords SHOULD bother users.</description>
+    </item>
+    
+    <item>
+      <title>Customizing Your Setup</title>
+      <link>https://dpfrakes.github.io/posts/customize-setup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/customize-setup/</guid>
+      <description>Binaries Node Version Manager NVM
+ZSH oh-my-zsh and its benefits
+~/.zsh_aliases Homebrew (Mac) /bin/bash -c &amp;#34;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)&amp;#34; Python 3 Python 2 is dead, but Mac can&amp;rsquo;t let it go yet.
+Cut in line by adding a symlink to python3:
+brew install python ln -s /usr/local/bin/python3 /usr/local/bin/python python2 is already an alias for you, so on the off-chance you actually want to run python 2 for something, you can still access it</description>
+    </item>
+    
+    <item>
+      <title>Data-Driven World</title>
+      <link>https://dpfrakes.github.io/posts/data-driven/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/data-driven/</guid>
+      <description>Everything now is data-driven. E-commerce vendors that can&amp;rsquo;t accurately make personalized product recommendations will inevitably fail to compete with those that can. Successful political campaigns rely on polling data and other quantified public sentiment in order to determine into which states and demographics are worth investing time and money.
+This is not a new phenomenon: only a new buzzword.
+&amp;ldquo;Data&amp;rdquo; is just information. Commercial enterprises have always needed to know what products are worth building and what services are worth offering.</description>
+    </item>
+    
+    <item>
+      <title>Dev Toolkit</title>
+      <link>https://dpfrakes.github.io/posts/dev-toolkit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/dev-toolkit/</guid>
+      <description>Most companies and products have their own &amp;ldquo;tech stack&amp;rdquo; or list of technologies they use in their proprietary tools. As a pro user, I&amp;rsquo;m always looking for ways to enable the most capabilities, speed up my workflow, and - ideally - find free ways to do so.
+Photos and Images  Skitch - image redaction  TODO replace with custom app to auto-redact (OCR) images, including gifs    </description>
+    </item>
+    
+    <item>
+      <title>Digital Forensics</title>
+      <link>https://dpfrakes.github.io/posts/digital-forensics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/digital-forensics/</guid>
+      <description>Exploring the magic black box of .git
+What happened and when? When something breaks, and you have no idea where to start, try a manual binary search through the git log.
+ something is currently broken we don&amp;rsquo;t know when it broke / when it last worked  What to do
+ git log --pretty=format:&amp;quot;%ci | %h&amp;quot; --no-merges -- tools/ui-ide/package.json Start at middle commit ID check out commit ID and run whatever idempotent script you need to put comment next to commit ID If it works, pick commit ID halfway between that one and last-tried future commit (or latest commit) If it doesn&amp;rsquo;t work, pick commit ID halfway between that one and last-tried past commit (or first commit) Repeat from step 3 with new commit ID  Once this is done, you&amp;rsquo;ll have determined which commit ID broke everything and you can blame the developer who created that commit</description>
+    </item>
+    
+    <item>
+      <title>Gift Shopping Tips From a Software Engineer</title>
+      <link>https://dpfrakes.github.io/posts/gift-shopping-tips/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/gift-shopping-tips/</guid>
+      <description>Billions of dollars have been invested in building robust AI models to recommend e-commerce products customers are more likely to buy based on their individual shopping history. Say you&amp;rsquo;ve, like me, shopped for computer and fitness gear in the past. Amazon&amp;rsquo;s algorithm will probably suggest a set of Beats Pro headphones at some point.
+Of all the headphones out there, though, why did Amazon choose that particular product to show you?</description>
+    </item>
+    
+    <item>
+      <title>Git Statistics</title>
+      <link>https://dpfrakes.github.io/posts/git-stats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/git-stats/</guid>
+      <description>git log -&amp;gt; database
+set up dashboard to:
+ Refresh on demand visualize repo activity compare contributors&#39; contributions (rate, volume)  Advanced feature: PR duration (between open and merge/close)? average # comments?</description>
+    </item>
+    
+    <item>
+      <title>JS Bookmarklets</title>
+      <link>https://dpfrakes.github.io/posts/web-snippets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/web-snippets/</guid>
+      <description>I have way too many browser bookmarks, but there is one folder of bookmarks I use regularly: bookmarklets.
+Just as you can save an HTML webpage as a bookmark, you can also save Javascript script as a bookmarklet, basically turning your bookmarks bar into a control panel.
+javascript:(function(){alert(&amp;#39;hello!&amp;#39;)})() caption: a very basic javascript snippet
+Caution: make sure you know exactly what the bookmarklet is going to do before you run it or add it to your bookmarks bar.</description>
+    </item>
+    
+    <item>
+      <title>Knowledge Sharing</title>
+      <link>https://dpfrakes.github.io/posts/knowledge-sharing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/knowledge-sharing/</guid>
+      <description>If I ran the zoo&amp;hellip; Knowledge sharing is difficult. Everywhere. And it&amp;rsquo;s because everyone, EVERYONE, writes their own &amp;ldquo;notes to self,&amp;rdquo; bookmarked links, and custom local &amp;ldquo;one-off&amp;rdquo; scripts.
+ Can&amp;rsquo;t we just have them put those on Confluence/Wiki/Teams/Slack/GitHub/Community/code documentation/Sharepoint?
+ First off, pick a damn &amp;ldquo;single source of truth,&amp;rdquo; you can&amp;rsquo;t have 12 of them.
+Secondly, we could try, but no one will. That stems from much more deeply-seated problems: impostor syndrome, self-doubt, and fear of judgment.</description>
+    </item>
+    
+    <item>
+      <title>Language Overload</title>
+      <link>https://dpfrakes.github.io/posts/language-overload/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/language-overload/</guid>
+      <description>Language and Tool Overload Context matters - Key value, as in &amp;ldquo;important concept&amp;rdquo; or key/value as in &amp;ldquo;hashtable lookup&amp;rdquo;? Synonym diarrhea - Component/module, feature/attribute
+Overlap Many tools are virtually interchangeable:
+Does Ansible do the same thing as Terraform? Podman and Docker React, Angular, Vue
+stackshare.io</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Hasn&#39;t Failed Us, We Have</title>
+      <link>https://dpfrakes.github.io/posts/ml-hasnt-failed-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/ml-hasnt-failed-us/</guid>
+      <description>I was watching a presentation by QuantumBlack, a technology company touting itself as an advocate of &amp;ldquo;augmented intelligence&amp;rdquo; instead of &amp;ldquo;artificial intelligence,&amp;rdquo; at the Royal Institution (link). In it, Martha Imprialou talks about some of the tragedies of poorly-executed implementations of machine learning in our world with a slide titled &amp;ldquo;When machine learning fails to deliver.&amp;rdquo;
+The three examples given were:
+ A self-driving Uber car hit and killed a pedestrian Amazon&amp;rsquo;s one-day delivery service area excluded ~50% of the black population in Chicago Google&amp;rsquo;s sentiment analyzer rated the terms &amp;ldquo;Jew&amp;rdquo; and &amp;ldquo;homosexual&amp;rdquo; negatively  All three of these incidents are, at best, unfortunate and, at worst, tragedies.</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Recipe</title>
+      <link>https://dpfrakes.github.io/posts/ml-recipe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/ml-recipe/</guid>
+      <description>X = ingredients
+Theta = measurements/amounts
+Y = taste</description>
+    </item>
+    
+    <item>
+      <title>Sabbatical</title>
+      <link>https://dpfrakes.github.io/posts/sabbatical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/sabbatical/</guid>
+      <description>Sabbatical Plan I&amp;rsquo;m taking a break from full-time work for at least a few weeks, probably a few months.
+While we&amp;rsquo;re far from early retirement, Christina and I have saved enough money to support this temporary venture into voluntary unemployment. And based on the current demand for experienced professionals in both our respective fields, we are confident that both of us will find suitable and profitable work when we choose to pursue it, barring an economic paradigm shift large enough to displace other skilled workers who hadn&amp;rsquo;t taken a sabbatical.</description>
+    </item>
+    
+    <item>
+      <title>Slow Practice</title>
+      <link>https://dpfrakes.github.io/posts/slow-practice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/slow-practice/</guid>
+      <description>Practice In music:
+ &amp;ldquo;One must practice slowly, then more slowly, and finally slowly.&amp;rdquo;
+–Camille Saint-Saens
+ In woodworking:
+ &amp;ldquo;Measure twice, cut once.&amp;rdquo;
+–Anonymous
+ In programming:
+ &amp;ldquo;Programming is a skill best acquired by practice and example rather than from books.&amp;rdquo;
+–Alan Turing
+ Practice is a Lost Art My Dad has a fairly cynical sense of humor which is likely the source of his interest in &amp;ldquo;trollable&amp;rdquo; axioms.</description>
+    </item>
+    
+    <item>
+      <title>Speaking Tech</title>
+      <link>https://dpfrakes.github.io/posts/speaking-tech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/speaking-tech/</guid>
+      <description>Bridging the gap between askers and builders Advice, anecdotes, notes about how to effectively communicate with engineers as a non-technical person.
+house analogy
+ Just add ___  Changing &amp;ldquo;just one piece of wood&amp;rdquo; on the outside of the house is not the same as replacing a stud    </description>
+    </item>
+    
+    <item>
+      <title>The Cleverness of Algorithms</title>
+      <link>https://dpfrakes.github.io/posts/algo-tips-tricks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/algo-tips-tricks/</guid>
+      <description>Binary search
+ metainfo = list already sorted benefit = log_n complexity  filename finding:
+ metainfo = filename must be unique within directory benefit = stop searching early in each dir  </description>
+    </item>
+    
+    <item>
+      <title>Toolkit</title>
+      <link>https://dpfrakes.github.io/posts/toolkit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/toolkit/</guid>
+      <description>Toolkit or bookshelf are both options.
+ Cloud Providers  Amazon Web Services Google Cloud Platform Microsoft Azure   DevOps  Infrastructure  Terraform Vagrant   Tooling  Docker Nomad Consul Ansible Packer   CI/CD  Jenkins CircleCI Google Cloud Build Travis CI Concourse Azure Pipelines GitHub Actions GitLab CI Buildkite Harness     Application  Python   Data Science  Data Management  OpenRefine Xplenty Informatica Cloud Data Integration SAS Data Quality   Data Analysis  Jupyter Notebook Jupyter Lab R Studio     Network  Istio Traefik Pilot Traefik Enterprise Traefik Proxy Traefik Mesh HAProxy Kong Nginx Envoy Ambassador Caddy AWS ELB    By Organization Amazon (AWS)</description>
+    </item>
+    
+    <item>
+      <title>Workforce Problems</title>
+      <link>https://dpfrakes.github.io/posts/workforce-problems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/workforce-problems/</guid>
+      <description>https://www.bloomberg.com/news/articles/2021-06-11/fewer-young-men-are-in-the-labor-force-more-are-living-at-home
+Average tenure at companies is decreasing, especially in tech
+Huge demand for tech talent
+Why the disconnect?
+Theory: tech expectations are too high
+Look at job listings. Jobs require half a decade of experience in Docker, Linux, JS, React, Node, everything
+What if we applied Unix philosophy to our job market?
+Do one thing and do it well
+Stop hiring full-stack, do-everything, superstar rockstar ninjas
+Hire experts at one thing</description>
+    </item>
+    
+  </channel>
+</rss>

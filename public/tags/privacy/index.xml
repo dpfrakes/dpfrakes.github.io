@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>privacy on Dan Frakes</title>
+    <link>https://dpfrakes.github.io/tags/privacy/</link>
+    <description>Recent content in privacy on Dan Frakes</description>
+    <image>
+      <url>https://dpfrakes.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://dpfrakes.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://dpfrakes.github.io/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Business Ethics</title>
+      <link>https://dpfrakes.github.io/posts/decision-and-ethics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/decision-and-ethics/</guid>
+      <description>Decision making should remain with people. Data gathering, analysis, and even recommendations may (and in many cases, should) fall to technology, including AI, but people should always be the one to pull the trigger - metaphorically and certainly literally.
+Business idea: the differentiating factor for Frakes, Inc. is that we will always reserve the right to revoke our customers&#39; rights. Obviously this is not because we&amp;rsquo;d ever want to, but because we don&amp;rsquo;t want to be like Apple.</description>
+    </item>
+    
+    <item>
+      <title>Data-Driven World</title>
+      <link>https://dpfrakes.github.io/posts/data-driven/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/data-driven/</guid>
+      <description>Everything now is data-driven. E-commerce vendors that can&amp;rsquo;t accurately make personalized product recommendations will inevitably fail to compete with those that can. Successful political campaigns rely on polling data and other quantified public sentiment in order to determine into which states and demographics are worth investing time and money.
+This is not a new phenomenon: only a new buzzword.
+&amp;ldquo;Data&amp;rdquo; is just information. Commercial enterprises have always needed to know what products are worth building and what services are worth offering.</description>
+    </item>
+    
+  </channel>
+</rss>

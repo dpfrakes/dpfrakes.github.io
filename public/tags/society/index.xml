@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>society on Dan Frakes</title>
+    <link>https://dpfrakes.github.io/tags/society/</link>
+    <description>Recent content in society on Dan Frakes</description>
+    <image>
+      <url>https://dpfrakes.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://dpfrakes.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://dpfrakes.github.io/tags/society/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data-Driven World</title>
+      <link>https://dpfrakes.github.io/posts/data-driven/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/data-driven/</guid>
+      <description>Everything now is data-driven. E-commerce vendors that can&amp;rsquo;t accurately make personalized product recommendations will inevitably fail to compete with those that can. Successful political campaigns rely on polling data and other quantified public sentiment in order to determine into which states and demographics are worth investing time and money.
+This is not a new phenomenon: only a new buzzword.
+&amp;ldquo;Data&amp;rdquo; is just information. Commercial enterprises have always needed to know what products are worth building and what services are worth offering.</description>
+    </item>
+    
+    <item>
+      <title>Gift Shopping Tips From a Software Engineer</title>
+      <link>https://dpfrakes.github.io/posts/gift-shopping-tips/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/gift-shopping-tips/</guid>
+      <description>Billions of dollars have been invested in building robust AI models to recommend e-commerce products customers are more likely to buy based on their individual shopping history. Say you&amp;rsquo;ve, like me, shopped for computer and fitness gear in the past. Amazon&amp;rsquo;s algorithm will probably suggest a set of Beats Pro headphones at some point.
+Of all the headphones out there, though, why did Amazon choose that particular product to show you?</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Hasn&#39;t Failed Us, We Have</title>
+      <link>https://dpfrakes.github.io/posts/ml-hasnt-failed-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/ml-hasnt-failed-us/</guid>
+      <description>I was watching a presentation by QuantumBlack, a technology company touting itself as an advocate of &amp;ldquo;augmented intelligence&amp;rdquo; instead of &amp;ldquo;artificial intelligence,&amp;rdquo; at the Royal Institution (link). In it, Martha Imprialou talks about some of the tragedies of poorly-executed implementations of machine learning in our world with a slide titled &amp;ldquo;When machine learning fails to deliver.&amp;rdquo;
+The three examples given were:
+ A self-driving Uber car hit and killed a pedestrian Amazon&amp;rsquo;s one-day delivery service area excluded ~50% of the black population in Chicago Google&amp;rsquo;s sentiment analyzer rated the terms &amp;ldquo;Jew&amp;rdquo; and &amp;ldquo;homosexual&amp;rdquo; negatively  All three of these incidents are, at best, unfortunate and, at worst, tragedies.</description>
+    </item>
+    
+    <item>
+      <title>Workforce Problems</title>
+      <link>https://dpfrakes.github.io/posts/workforce-problems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/workforce-problems/</guid>
+      <description>https://www.bloomberg.com/news/articles/2021-06-11/fewer-young-men-are-in-the-labor-force-more-are-living-at-home
+Average tenure at companies is decreasing, especially in tech
+Huge demand for tech talent
+Why the disconnect?
+Theory: tech expectations are too high
+Look at job listings. Jobs require half a decade of experience in Docker, Linux, JS, React, Node, everything
+What if we applied Unix philosophy to our job market?
+Do one thing and do it well
+Stop hiring full-stack, do-everything, superstar rockstar ninjas
+Hire experts at one thing</description>
+    </item>
+    
+  </channel>
+</rss>
