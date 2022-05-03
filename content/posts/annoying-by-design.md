@@ -10,6 +10,14 @@ dedicate considerable effort into making their product addictive. If they
 don't, consumers would be less likely to use their product, making it less
 valuable to advertisers.
 
+60 Minutes presented a segment back in 2018 titled "Brain Hacking"
+([link](https://www.youtube.com/watch?v=awAMTQZmvPE)) that explained how
+intentional these addictive features are.
+
+The NIH published an article in 2019, listing several common "psychological
+mechanisms" that are built into social media and other smartphone apps 
+([link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6679162/)).
+
 I'd considered making a social media aggregator application that removes
 addictive "features," such as infinite scroll, targeted advertising, and
 notification badges, but I decided it would not be worth the time since I'm
