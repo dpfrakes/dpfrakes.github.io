@@ -1,7 +1,9 @@
 baseURL: "https://dpfrakes.github.io/"
-title: 'Dan Frakes'
-paginate: 5
-theme: PaperMod
+title: "Dan Frakes"
+paginate: 10
+theme: minimalist
+
+math: true
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -18,8 +20,8 @@ minify:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: "Dan Frakes"
-    description: "Dan Frakes description"
-    keywords: [Blog, Portfolio, PaperMod]
+    description: "Dan Frakes's musings on technology, family, religion, finance, and other things"
+    keywords: [blog, portfolio, dpfrakes, technology]
     author: Me
     # author: ["Me", "You"] # multiple authors
     images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -40,18 +42,18 @@ params:
     showtoc: false
     tocopen: false
 
-    assets:
-        # disableHLJS: true # to disable highlight.js
-        # disableFingerprinting: true
-        favicon: "<link / abs url>"
-        favicon16x16: "<link / abs url>"
-        favicon32x32: "<link / abs url>"
-        apple_touch_icon: "<link / abs url>"
-        safari_pinned_tab: "<link / abs url>"
+    # assets:
+    #     # disableHLJS: true # to disable highlight.js
+    #     # disableFingerprinting: true
+    #     favicon: "favicon.ico"
+    #     favicon16x16: "favicon-16x16.png"
+    #     favicon32x32: "favicon-32x32.png"
+    #     apple_touch_icon: "apple-icon-60x60.png"
+    #     safari_pinned_tab: "<link / abs url>"
 
     label:
-        text: "Home"
-        icon: /apple-touch-icon.png
+        text: "sudo better"
+        icon: /logo.png
         iconHeight: 35
 
     # profile-mode
@@ -59,7 +61,7 @@ params:
         enabled: false # needs to be explicitly set
         title: "Dan Frakes"
         subtitle: "This is subtitle"
-        imageUrl: "<img location>"
+        imageUrl: "logo.png"
         imageWidth: 120
         imageHeight: 120
         imageTitle: my image
@@ -71,16 +73,18 @@ params:
 
     # home-info mode
     homeInfoParams:
-        Title: "Hi there \U0001F44B"
-        Content: Welcome to my blog
+        Title: "sudo better"
+        Content: Increasing the number of known unknowns every day
 
     socialIcons:
         - name: twitter
-          url: "https://twitter.com/"
+          url: "https://twitter.com/dpfrakes"
         - name: stackoverflow
-          url: "https://stackoverflow.com"
+          url: "https://stackoverflow.com/users/2727510/dpfrakes"
         - name: github
-          url: "https://github.com/"
+          url: "https://github.com/dpfrakes"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/dpfrakes"
 
     analytics:
         google:
@@ -112,17 +116,17 @@ params:
         keys: ["title", "permalink", "summary", "content"]
 menu:
     main:
-        - identifier: categories
-          name: categories
-          url: /categories/
-          weight: 10
+        - identifier: search
+          name: search
+          url: /search/
+          weight: 20
         - identifier: tags
           name: tags
           url: /tags/
           weight: 20
-        - identifier: example
-          name: example.org
-          url: https://example.org
+        - identifier: about
+          name: about
+          url: /about
           weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
