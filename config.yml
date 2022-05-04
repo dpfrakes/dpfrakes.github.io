@@ -1,9 +1,7 @@
 baseURL: "https://dpfrakes.github.io/"
 title: "Dan Frakes"
 paginate: 10
-theme: minimalist
-
-math: true
+theme: PaperMod
 
 enableRobotsTXT: true
 buildDrafts: false
