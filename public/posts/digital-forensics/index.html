@@ -13,11 +13,11 @@ What happened and when? When something breaks, and you have no idea where to sta
 <link rel=canonical href=https://dpfrakes.github.io/posts/digital-forensics/>
 <link crossorigin=anonymous href=/assets/css/stylesheet.min.ec8da366ca2fb647537ccb7a8f6fa5b4e9cd3c7a0d3171dd2d3baad1e49c8bfc.css integrity="sha256-7I2jZsovtkdTfMt6j2+ltOnNPHoNMXHdLTuq0eSci/w=" rel="preload stylesheet" as=style>
 <script defer crossorigin=anonymous src=/assets/js/highlight.min.7680afc38aa6b15ddf158a4f3780b7b1f7dde7e91d26f073e6229bb7a0793c92.js integrity="sha256-doCvw4qmsV3fFYpPN4C3sffd5+kdJvBz5iKbt6B5PJI=" onload=hljs.initHighlightingOnLoad()></script>
-<link rel=icon href=https://dpfrakes.github.io/%3Clink%20/%20abs%20url%3E>
-<link rel=icon type=image/png sizes=16x16 href=https://dpfrakes.github.io/%3Clink%20/%20abs%20url%3E>
-<link rel=icon type=image/png sizes=32x32 href=https://dpfrakes.github.io/%3Clink%20/%20abs%20url%3E>
-<link rel=apple-touch-icon href=https://dpfrakes.github.io/%3Clink%20/%20abs%20url%3E>
-<link rel=mask-icon href=https://dpfrakes.github.io/%3Clink%20/%20abs%20url%3E>
+<link rel=icon href=https://dpfrakes.github.io/favicon.ico>
+<link rel=icon type=image/png sizes=16x16 href=https://dpfrakes.github.io/favicon-16x16.png>
+<link rel=icon type=image/png sizes=32x32 href=https://dpfrakes.github.io/favicon-32x32.png>
+<link rel=apple-touch-icon href=https://dpfrakes.github.io/apple-touch-icon.png>
+<link rel=mask-icon href=https://dpfrakes.github.io/safari-pinned-tab.svg>
 <meta name=theme-color content="#2e2e33">
 <meta name=msapplication-TileColor content="#2e2e33">
 <noscript>
@@ -39,15 +39,15 @@ What happened and when? When something breaks, and you have no idea where to sta
  something is currently broken we don&rsquo;t know when it broke / when it last worked  What to do
  git log --pretty=format:&#34;%ci | %h&#34; --no-merges -- tools/ui-ide/package.json Start at middle commit ID check out commit ID and run whatever idempotent script you need to put comment next to commit ID If it works, pick commit ID halfway between that one and last-tried future commit (or latest commit) If it doesn&rsquo;t work, pick commit ID halfway between that one and last-tried past commit (or first commit) Repeat from step 3 with new commit ID  Once this is done, you&rsquo;ll have determined which commit ID broke everything and you can blame the developer who created that commit">
 <script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Posts","item":"https://dpfrakes.github.io/posts/"},{"@type":"ListItem","position":2,"name":"Digital Forensics","item":"https://dpfrakes.github.io/posts/digital-forensics/"}]}</script>
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Digital Forensics","name":"Digital Forensics","description":"Exploring the magic black box of .git\nWhat happened and when? When something breaks, and you have no idea where to start, try a manual binary search through the git log.\n something is currently broken we don\u0026rsquo;t know when it broke / when it last worked  What to do\n git log --pretty=format:\u0026quot;%ci | %h\u0026quot; --no-merges -- tools/ui-ide/package.json Start at middle commit ID check out commit ID and run whatever idempotent script you need to put comment next to commit ID If it works, pick commit ID halfway between that one and last-tried future commit (or latest commit) If it doesn\u0026rsquo;t work, pick commit ID halfway between that one and last-tried past commit (or first commit) Repeat from step 3 with new commit ID  Once this is done, you\u0026rsquo;ll have determined which commit ID broke everything and you can blame the developer who created that commit","keywords":["data","productivity","teamwork"],"articleBody":"Exploring the magic black box of .git\nWhat happened and when? When something breaks, and you have no idea where to start, try a manual binary search through the git log.\n something is currently broken we don’t know when it broke / when it last worked  What to do\n git log --pretty=format:\"%ci | %h\" --no-merges -- tools/ui-ide/package.json Start at middle commit ID check out commit ID and run whatever idempotent script you need to put comment next to commit ID If it works, pick commit ID halfway between that one and last-tried future commit (or latest commit) If it doesn’t work, pick commit ID halfway between that one and last-tried past commit (or first commit) Repeat from step 3 with new commit ID  Once this is done, you’ll have determined which commit ID broke everything and you can blame the developer who created that commit\n","wordCount":"145","inLanguage":"en","datePublished":"0001-01-01T00:00:00Z","dateModified":"0001-01-01T00:00:00Z","author":{"@type":"Person","name":"Me"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://dpfrakes.github.io/posts/digital-forensics/"},"publisher":{"@type":"Organization","name":"Dan Frakes","logo":{"@type":"ImageObject","url":"https://dpfrakes.github.io/%3Clink%20/%20abs%20url%3E"}}}</script>
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Digital Forensics","name":"Digital Forensics","description":"Exploring the magic black box of .git\nWhat happened and when? When something breaks, and you have no idea where to start, try a manual binary search through the git log.\n something is currently broken we don\u0026rsquo;t know when it broke / when it last worked  What to do\n git log --pretty=format:\u0026quot;%ci | %h\u0026quot; --no-merges -- tools/ui-ide/package.json Start at middle commit ID check out commit ID and run whatever idempotent script you need to put comment next to commit ID If it works, pick commit ID halfway between that one and last-tried future commit (or latest commit) If it doesn\u0026rsquo;t work, pick commit ID halfway between that one and last-tried past commit (or first commit) Repeat from step 3 with new commit ID  Once this is done, you\u0026rsquo;ll have determined which commit ID broke everything and you can blame the developer who created that commit","keywords":["data","productivity","teamwork"],"articleBody":"Exploring the magic black box of .git\nWhat happened and when? When something breaks, and you have no idea where to start, try a manual binary search through the git log.\n something is currently broken we don’t know when it broke / when it last worked  What to do\n git log --pretty=format:\"%ci | %h\" --no-merges -- tools/ui-ide/package.json Start at middle commit ID check out commit ID and run whatever idempotent script you need to put comment next to commit ID If it works, pick commit ID halfway between that one and last-tried future commit (or latest commit) If it doesn’t work, pick commit ID halfway between that one and last-tried past commit (or first commit) Repeat from step 3 with new commit ID  Once this is done, you’ll have determined which commit ID broke everything and you can blame the developer who created that commit\n","wordCount":"145","inLanguage":"en","datePublished":"0001-01-01T00:00:00Z","dateModified":"0001-01-01T00:00:00Z","author":{"@type":"Person","name":"Me"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://dpfrakes.github.io/posts/digital-forensics/"},"publisher":{"@type":"Organization","name":"Dan Frakes","logo":{"@type":"ImageObject","url":"https://dpfrakes.github.io/favicon.ico"}}}</script>
 </head>
 <body id=top>
 <script>localStorage.getItem("pref-theme")==="dark"?document.body.classList.add('dark'):localStorage.getItem("pref-theme")==="light"?document.body.classList.remove('dark'):window.matchMedia('(prefers-color-scheme: dark)').matches&&document.body.classList.add('dark')</script>
 <header class=header>
 <nav class=nav>
 <div class=logo>
-<a href=https://dpfrakes.github.io/ accesskey=h title="Home (Alt + H)">
-<img src=https://dpfrakes.github.io/apple-touch-icon.png alt=logo aria-label=logo height=35>Home</a>
+<a href=https://dpfrakes.github.io/ accesskey=h title="sudo better (Alt + H)">
+<img src=https://dpfrakes.github.io/logo_hu405d953fc16120ac8a5ba0d115ff4d13_70122_0x35_resize_box_3.png alt=logo aria-label=logo height=35>sudo better</a>
 <span class=logo-switches>
 <button id=theme-toggle accesskey=t title="(Alt + T)"><svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg><svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
 </button>
@@ -55,8 +55,8 @@ What happened and when? When something breaks, and you have no idea where to sta
 </div>
 <ul id=menu>
 <li>
-<a href=https://dpfrakes.github.io/categories/ title=categories>
-<span>categories</span>
+<a href=https://dpfrakes.github.io/search/ title=search>
+<span>search</span>
 </a>
 </li>
 <li>
@@ -65,8 +65,8 @@ What happened and when? When something breaks, and you have no idea where to sta
 </a>
 </li>
 <li>
-<a href=https://example.org title=example.org>
-<span>example.org</span>
+<a href=https://dpfrakes.github.io/about title=about>
+<span>about</span>
 </a>
 </li>
 </ul>

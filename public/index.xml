@@ -1,11 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Dan Frakes</title>
     <link>https://dpfrakes.github.io/</link>
     <description>Recent content on Dan Frakes</description>
+    <image>
+      <url>https://dpfrakes.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://dpfrakes.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 30 Apr 2022 01:05:55 -0400</lastBuildDate><atom:link href="https://dpfrakes.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 May 2022 03:02:50 -0400</lastBuildDate><atom:link href="https://dpfrakes.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Another Fine Example</title>
+      <link>https://dpfrakes.github.io/posts/another-fine-example/</link>
+      <pubDate>Sat, 07 May 2022 03:02:50 -0400</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/another-fine-example/</guid>
+      <description>Another fine example
+   In [1]: import time from tqdm import tqdm for i in tqdm(range(20)): time.sleep(0.5) 
+    100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 20/20 [00:10&amp;lt;00:00, 1.99it/s]       In [ ]:       </description>
+    </item>
+    
+    <item>
+      <title>First Example</title>
+      <link>https://dpfrakes.github.io/posts/first-example/</link>
+      <pubDate>Sat, 07 May 2022 03:02:50 -0400</pubDate>
+      
+      <guid>https://dpfrakes.github.io/posts/first-example/</guid>
+      <description>First example of a jupyter notebook that we want to convert to HTML, extract the content, and inject it into a blog post template to be styled and published as a blog post.
+   In [1]: import os      In [3]: os.system(&#34;ls ..&#34;)      archetypes assets basic.html config.yml content data deploy.py dusk.html layouts notebooks public README.md resources static themes vaers-analysis.html vaers-analysis.</description>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>https://dpfrakes.github.io/posts/my-first-post/</link>
