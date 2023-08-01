@@ -1,0 +1,1 @@
+var lineNums=document.querySelectorAll(".js-line-number");lineNums.forEach(e=>{e.addEventListener("click",e=>{e.target.classList.contains("highlighted")?e.target.classList.remove("highlighted"):(lineNums.forEach(e=>{e.classList.remove("highlighted")}),e.target.classList.add("highlighted"))})})
