@@ -441,5 +441,23 @@ metainfo = list already sorted benefit = log_n complexity filename finding:</des
 Average tenure at companies is decreasing, especially in tech</description>
     </item>
     
+    <item>
+      <title>Resume</title>
+      <link>https://example.com/resume/</link>
+      <pubDate>Fri, 01 Mar 2019 02:44:54 -0500</pubDate>
+      
+      <guid>https://example.com/resume/</guid>
+      <description>Download PDF</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/contact/</guid>
+      <description>Email addressSubmit</description>
+    </item>
+    
   </channel>
 </rss>

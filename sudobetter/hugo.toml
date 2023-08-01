@@ -35,47 +35,47 @@ disqusShortname = ""
 
     # Add links to your accounts. Remove the ones you don't want to include.
     # Main
-    email = "#"
-    facebook = "#"
-    twitter = "#"
-    instagram = "#"
-    tumblr = "#"
-    reddit = "#"
-    pinterest = "#"
-    youtube = "#"
-    vimeo = "#"
-    weibo = "#"
-    vk = "#"
-    linkedin = "#"
+    email = "/contact"
+    # facebook = "#"
+    # twitter = "#"
+    # instagram = "#"
+    # tumblr = "#"
+    # reddit = "#"
+    # pinterest = "#"
+    # youtube = "#"
+    # vimeo = "#"
+    # weibo = "#"
+    # vk = "#"
+    # linkedin = "#"
 
     # Writing
-    medium = "#"
-    blogger = "#"
-    wordpress = "#"
+    # medium = "#"
+    # blogger = "#"
+    # wordpress = "#"
 
     # Creative & Visual
-    dribbble = "#"
-    behance = "#"
-    deviantart = "#"
-    flickr = "#"
+    # dribbble = "#"
+    # behance = "#"
+    # deviantart = "#"
+    # flickr = "#"
 
     # Audio & Music
-    soundcloud = "#"
+    # soundcloud = "#"
 
     # Programming
     github = "#"
     stackoverflow = "#"
     gitlab = "#"
-    codepen = "#"
+    # codepen = "#"
 
     # Academic
-    googlescholar = "#"
-    impactstory = "#"
-    orcid = "#"
+    # googlescholar = "#"
+    # impactstory = "#"
+    # orcid = "#"
 
     # Travel
-    googlemaps = "#"
-    tripadvisor = "#"
+    # googlemaps = "#"
+    # tripadvisor = "#"
 
 # Menu links along the sidebar navigation.
 [[menu.main]]
