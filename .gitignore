@@ -1,2 +1,5 @@
 .hugo_build.lock
 .ipynb_checkpoints
+
+.oldsite/
+
