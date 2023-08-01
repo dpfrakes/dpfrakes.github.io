@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>work on Noteworthy</title>
+    <link>https://example.com/tags/work/</link>
+    <description>Recent content in work on Noteworthy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Jul 2023 00:00:00 -0400</lastBuildDate><atom:link href="https://example.com/tags/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overwhelmed</title>
+      <link>https://example.com/posts/overwhelmed/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://example.com/posts/overwhelmed/</guid>
+      <description>I don&amp;rsquo;t listen to the radio very often anymore. Typically short car rides are accompanied by conversation with my wife, other times tech podcasts fill the space, and sometimes silence.</description>
+    </item>
+    
+    <item>
+      <title>The Art of Remote Engagement</title>
+      <link>https://example.com/posts/the-art-of-remote-engagement/</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://example.com/posts/the-art-of-remote-engagement/</guid>
+      <description>It&amp;rsquo;s no secret that remote work is a normal, ubiquitous feature of our world&amp;rsquo;s 21st century economy.</description>
+    </item>
+    
+    <item>
+      <title>Software Engineering Without Screens</title>
+      <link>https://example.com/posts/swe-without-screens/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://example.com/posts/swe-without-screens/</guid>
+      <description>What if software engineering jobs could be accomplished without a screen?</description>
+    </item>
+    
+    <item>
+      <title>The Importance of Small Talk</title>
+      <link>https://example.com/posts/small-talk/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://example.com/posts/small-talk/</guid>
+      <description>I just got off a call with my boss. I typically feel very stressed whenever these calls happen; not because my boss is hard on me (he&amp;rsquo;s most definitely not), but because I feel anxious that I usually have nothing to offer, which is especially anxiety-inducing when these calls are spontaneously scheduled.</description>
+    </item>
+    
+    <item>
+      <title>Keep Some Doors Closed</title>
+      <link>https://example.com/posts/keep-doors-closed/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://example.com/posts/keep-doors-closed/</guid>
+      <description>In my junior year of high school, I was accidentally enrolled in AP Computer Science.</description>
+    </item>
+    
+    <item>
+      <title>Quit Job-Hopping</title>
+      <link>https://example.com/posts/quitting-job-hopping/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://example.com/posts/quitting-job-hopping/</guid>
+      <description>It depends on who you ask, but personally, I consider myself a bit of a job-hopper.</description>
+    </item>
+    
+    <item>
+      <title>Tainted Brain</title>
+      <link>https://example.com/posts/tainted-brain/</link>
+      <pubDate>Fri, 17 Jun 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://example.com/posts/tainted-brain/</guid>
+      <description>I want to do more research into this to avoid reinventing the wheel, because I am certain that someone far more intelligent than me has already beat me to the discovery and subsequent phrase-coining of the phenomenon, but while studying for a professional certification, I realized that my pre-existing way of thinking may be preventing me from easily understanding new concepts whose nature does not lend itself to similar axioms, metaphors, or explanations; and other - equally or more complicated - concepts related to software come quite naturally to me while eluding others.</description>
+    </item>
+    
+    <item>
+      <title>CLI Diary</title>
+      <link>https://example.com/posts/cli-diary/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://example.com/posts/cli-diary/</guid>
+      <description>In my endless pursuit of a minimal-barrier-to-entry method of tracking notes and tasks, I have tried various apps, including Google Docs, OneNote, Evernote, Notion, Obsidian, and just plain old Markdown.</description>
+    </item>
+    
+    <item>
+      <title>Messy Digital Workspace</title>
+      <link>https://example.com/posts/messy-workspace/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://example.com/posts/messy-workspace/</guid>
+      <description>While learning about 12 new tools simultaneously without much guidance, my computer quickly became overrun with notes, files, snippets, and links in various file formats in every nook and cranny of my filesystem.</description>
+    </item>
+    
+    <item>
+      <title>Starting Up</title>
+      <link>https://example.com/posts/starting-up/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://example.com/posts/starting-up/</guid>
+      <description>Reflect What&amp;rsquo;s important to you? What is prevalent in your daily or weekly life that takes up more time or cognitive load than it should?</description>
+    </item>
+    
+    <item>
+      <title>AI Shared Responsibility</title>
+      <link>https://example.com/posts/ai-shared-responsibility/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://example.com/posts/ai-shared-responsibility/</guid>
+      <description>Who&amp;rsquo;s to blame when an AI-driven tool does something bad?</description>
+    </item>
+    
+    <item>
+      <title>Language Overload</title>
+      <link>https://example.com/posts/language-overload/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://example.com/posts/language-overload/</guid>
+      <description>Context matters - Key value, as in &amp;ldquo;important concept&amp;rdquo; or key/value as in &amp;ldquo;hashtable lookup&amp;rdquo;?</description>
+    </item>
+    
+    <item>
+      <title>Slow Practice</title>
+      <link>https://example.com/posts/slow-practice/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://example.com/posts/slow-practice/</guid>
+      <description>In music:
+&amp;ldquo;One must practice slowly, then more slowly, and finally slowly.</description>
+    </item>
+    
+    <item>
+      <title>Knowledge Sharing</title>
+      <link>https://example.com/posts/knowledge-sharing/</link>
+      <pubDate>Wed, 29 Sep 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://example.com/posts/knowledge-sharing/</guid>
+      <description>Knowledge sharing is difficult. Everywhere. And it&amp;rsquo;s because everyone, EVERYONE, writes their own &amp;ldquo;notes to self,&amp;rdquo; bookmarked links, and custom local &amp;ldquo;one-off&amp;rdquo; scripts.</description>
+    </item>
+    
+    <item>
+      <title>Sabbatical Plan</title>
+      <link>https://example.com/posts/sabbatical/</link>
+      <pubDate>Wed, 29 Sep 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://example.com/posts/sabbatical/</guid>
+      <description>I&amp;rsquo;m taking a break from full-time work for at least a few weeks, probably a few months.</description>
+    </item>
+    
+    <item>
+      <title>Speaking Tech</title>
+      <link>https://example.com/posts/speaking-tech/</link>
+      <pubDate>Wed, 29 Sep 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://example.com/posts/speaking-tech/</guid>
+      <description>Bridging the gap between askers and builders Advice, anecdotes, notes about how to effectively communicate with engineers as a non-technical person.</description>
+    </item>
+    
+    <item>
+      <title>Workforce Problems</title>
+      <link>https://example.com/posts/workforce-problems/</link>
+      <pubDate>Wed, 29 Sep 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://example.com/posts/workforce-problems/</guid>
+      <description>https://www.bloomberg.com/news/articles/2021-06-11/fewer-young-men-are-in-the-labor-force-more-are-living-at-home
+Average tenure at companies is decreasing, especially in tech</description>
+    </item>
+    
+  </channel>
+</rss>

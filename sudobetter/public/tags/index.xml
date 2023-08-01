@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Noteworthy</title>
+    <link>https://example.com/tags/</link>
+    <description>Recent content in Tags on Noteworthy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Jul 2023 00:00:00 -0400</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>work</title>
+      <link>https://example.com/tags/work/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://example.com/tags/work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>finance</title>
+      <link>https://example.com/tags/finance/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://example.com/tags/finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>religion</title>
+      <link>https://example.com/tags/religion/</link>
+      <pubDate>Sat, 03 Dec 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://example.com/tags/religion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorials</title>
+      <link>https://example.com/tags/tutorials/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://example.com/tags/tutorials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>https://example.com/tags/tech/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://example.com/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>family</title>
+      <link>https://example.com/tags/family/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://example.com/tags/family/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>politics</title>
+      <link>https://example.com/tags/politics/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://example.com/tags/politics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
