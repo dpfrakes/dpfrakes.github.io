@@ -77,7 +77,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "sudo better"
-        Content: Increasing the number of known unknowns every day
+        Content: Test Increasing the number of known unknowns every day
 
     socialIcons:
         - name: twitter
