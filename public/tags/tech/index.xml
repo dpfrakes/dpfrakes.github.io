@@ -2,137 +2,137 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tech on sudo better</title>
-    <link>https://example.com/tags/tech/</link>
+    <link>https://dpfrakes.dev/tags/tech/</link>
     <description>Recent content in tech on sudo better</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 May 2022 00:00:00 -0400</lastBuildDate><atom:link href="https://example.com/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 May 2022 00:00:00 -0400</lastBuildDate><atom:link href="https://dpfrakes.dev/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Categories of Data Projects</title>
-      <link>https://example.com/posts/categories-of-data-projects/</link>
+      <link>https://dpfrakes.dev/posts/categories-of-data-projects/</link>
       <pubDate>Tue, 10 May 2022 00:00:00 -0400</pubDate>
       
-      <guid>https://example.com/posts/categories-of-data-projects/</guid>
+      <guid>https://dpfrakes.dev/posts/categories-of-data-projects/</guid>
       <description>Personal projects are arguably the best way to improve a variety of skills.</description>
     </item>
     
     <item>
       <title>Annoying by Design</title>
-      <link>https://example.com/posts/annoying-by-design/</link>
+      <link>https://dpfrakes.dev/posts/annoying-by-design/</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 -0400</pubDate>
       
-      <guid>https://example.com/posts/annoying-by-design/</guid>
+      <guid>https://dpfrakes.dev/posts/annoying-by-design/</guid>
       <description>It&amp;rsquo;s no secret that the most successful apps, games, and social media platforms dedicate considerable effort into making their product addictive.</description>
     </item>
     
     <item>
       <title>Bi-Directional Data Architecture</title>
-      <link>https://example.com/posts/bidirectional-data-architecture/</link>
+      <link>https://dpfrakes.dev/posts/bidirectional-data-architecture/</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 -0400</pubDate>
       
-      <guid>https://example.com/posts/bidirectional-data-architecture/</guid>
+      <guid>https://dpfrakes.dev/posts/bidirectional-data-architecture/</guid>
       <description>I constantly think of software, data, and other technical components of my job in terms of analogies.</description>
     </item>
     
     <item>
       <title>Business Ethics</title>
-      <link>https://example.com/posts/decision-and-ethics/</link>
+      <link>https://dpfrakes.dev/posts/decision-and-ethics/</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 -0400</pubDate>
       
-      <guid>https://example.com/posts/decision-and-ethics/</guid>
+      <guid>https://dpfrakes.dev/posts/decision-and-ethics/</guid>
       <description>Decision making should remain with people. Data gathering, analysis, and even recommendations may (and in many cases, should) fall to technology, including AI, but people should always be the one to pull the trigger - metaphorically and certainly literally.</description>
     </item>
     
     <item>
       <title>Change Your Password</title>
-      <link>https://example.com/posts/change-password/</link>
+      <link>https://dpfrakes.dev/posts/change-password/</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 -0400</pubDate>
       
-      <guid>https://example.com/posts/change-password/</guid>
+      <guid>https://dpfrakes.dev/posts/change-password/</guid>
       <description>UI has an innate ability to instill a variety of emotions in users.</description>
     </item>
     
     <item>
       <title>Data-Driven World</title>
-      <link>https://example.com/posts/data-driven/</link>
+      <link>https://dpfrakes.dev/posts/data-driven/</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 -0400</pubDate>
       
-      <guid>https://example.com/posts/data-driven/</guid>
+      <guid>https://dpfrakes.dev/posts/data-driven/</guid>
       <description>Everything now is data-driven. E-commerce vendors that can&amp;rsquo;t accurately make personalized product recommendations will inevitably fail to compete with those that can.</description>
     </item>
     
     <item>
       <title>Machine Learning Hasn&#39;t Failed Us, We Have</title>
-      <link>https://example.com/posts/ml-hasnt-failed-us/</link>
+      <link>https://dpfrakes.dev/posts/ml-hasnt-failed-us/</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 -0400</pubDate>
       
-      <guid>https://example.com/posts/ml-hasnt-failed-us/</guid>
+      <guid>https://dpfrakes.dev/posts/ml-hasnt-failed-us/</guid>
       <description>I was watching a presentation by QuantumBlack, a technology company touting itself as an advocate of &amp;ldquo;augmented intelligence&amp;rdquo; instead of &amp;ldquo;artificial intelligence,&amp;rdquo; at the Royal Institution (link).</description>
     </item>
     
     <item>
       <title>Tech Stack Visualized</title>
-      <link>https://example.com/posts/tech-stack-visualization/</link>
+      <link>https://dpfrakes.dev/posts/tech-stack-visualization/</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 -0400</pubDate>
       
-      <guid>https://example.com/posts/tech-stack-visualization/</guid>
+      <guid>https://dpfrakes.dev/posts/tech-stack-visualization/</guid>
       <description>Analogies and Illustrations of a Computer Basics Directories, files, and executables Hard drives HTTP Intermediate VPN (tunnel) $PATH (&amp;ldquo;cutting in line&amp;rdquo; analogy) Advanced Database indexing (creating a table of contents) Virtual environments, Docker Cache, RAM, storage SSD vs HDD ML algorithms </description>
     </item>
     
     <item>
       <title>Toolkit</title>
-      <link>https://example.com/posts/toolkit/</link>
+      <link>https://dpfrakes.dev/posts/toolkit/</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 -0400</pubDate>
       
-      <guid>https://example.com/posts/toolkit/</guid>
+      <guid>https://dpfrakes.dev/posts/toolkit/</guid>
       <description>Toolkit or bookshelf are both options.
 Cloud Providers Amazon Web Services Google Cloud Platform Microsoft Azure DevOps Infrastructure Terraform Vagrant Tooling Docker Nomad Consul Ansible Packer CI/CD Jenkins CircleCI Google Cloud Build Travis CI Concourse Azure Pipelines GitHub Actions GitLab CI Buildkite Harness Application Python Data Science Data Management OpenRefine Xplenty Informatica Cloud Data Integration SAS Data Quality Data Analysis Jupyter Notebook Jupyter Lab R Studio Network Istio Traefik Pilot Traefik Enterprise Traefik Proxy Traefik Mesh HAProxy Kong Nginx Envoy Ambassador Caddy AWS ELB By Organization Amazon (AWS)</description>
     </item>
     
     <item>
       <title>Customizing Your Setup</title>
-      <link>https://example.com/posts/customize-setup/</link>
+      <link>https://dpfrakes.dev/posts/customize-setup/</link>
       <pubDate>Wed, 29 Sep 2021 00:00:00 -0400</pubDate>
       
-      <guid>https://example.com/posts/customize-setup/</guid>
+      <guid>https://dpfrakes.dev/posts/customize-setup/</guid>
       <description>Binaries Node Version Manager NVM
 ZSH oh-my-zsh and its benefits</description>
     </item>
     
     <item>
       <title>Developer Utility Belt</title>
-      <link>https://example.com/posts/dev-toolkit/</link>
+      <link>https://dpfrakes.dev/posts/dev-toolkit/</link>
       <pubDate>Wed, 29 Sep 2021 00:00:00 -0400</pubDate>
       
-      <guid>https://example.com/posts/dev-toolkit/</guid>
+      <guid>https://dpfrakes.dev/posts/dev-toolkit/</guid>
       <description>Most companies and products have their own &amp;ldquo;tech stack&amp;rdquo; or list of technologies they use in their proprietary tools.</description>
     </item>
     
     <item>
       <title>Digital Forensics</title>
-      <link>https://example.com/posts/digital-forensics/</link>
+      <link>https://dpfrakes.dev/posts/digital-forensics/</link>
       <pubDate>Wed, 29 Sep 2021 00:00:00 -0400</pubDate>
       
-      <guid>https://example.com/posts/digital-forensics/</guid>
+      <guid>https://dpfrakes.dev/posts/digital-forensics/</guid>
       <description>Exploring the magic black box of .git
 What happened and when?</description>
     </item>
     
     <item>
       <title>Gift Shopping Tips From a Software Engineer</title>
-      <link>https://example.com/posts/gift-shopping-tips/</link>
+      <link>https://dpfrakes.dev/posts/gift-shopping-tips/</link>
       <pubDate>Wed, 29 Sep 2021 00:00:00 -0400</pubDate>
       
-      <guid>https://example.com/posts/gift-shopping-tips/</guid>
+      <guid>https://dpfrakes.dev/posts/gift-shopping-tips/</guid>
       <description>Treat Automated Suggestions as Trailheads Billions of dollars have been invested in building robust AI models to recommend e-commerce products customers are more likely to buy based on their individual shopping history.</description>
     </item>
     
     <item>
       <title>Git Statistics</title>
-      <link>https://example.com/posts/git-stats/</link>
+      <link>https://dpfrakes.dev/posts/git-stats/</link>
       <pubDate>Wed, 29 Sep 2021 00:00:00 -0400</pubDate>
       
-      <guid>https://example.com/posts/git-stats/</guid>
+      <guid>https://dpfrakes.dev/posts/git-stats/</guid>
       <description>git log -&amp;gt; database
 set up dashboard to:
 Refresh on demand visualize repo activity compare contributors&amp;rsquo; contributions (rate, volume) Advanced feature: PR duration (between open and merge/close)?</description>
@@ -140,19 +140,19 @@ Refresh on demand visualize repo activity compare contributors&amp;rsquo; contri
     
     <item>
       <title>JS Bookmarklets</title>
-      <link>https://example.com/posts/web-snippets/</link>
+      <link>https://dpfrakes.dev/posts/web-snippets/</link>
       <pubDate>Wed, 29 Sep 2021 00:00:00 -0400</pubDate>
       
-      <guid>https://example.com/posts/web-snippets/</guid>
+      <guid>https://dpfrakes.dev/posts/web-snippets/</guid>
       <description>I have way too many browser bookmarks, but there is one folder of bookmarks I use regularly: bookmarklets.</description>
     </item>
     
     <item>
       <title>Machine Learning Recipe</title>
-      <link>https://example.com/posts/ml-recipe/</link>
+      <link>https://dpfrakes.dev/posts/ml-recipe/</link>
       <pubDate>Wed, 29 Sep 2021 00:00:00 -0400</pubDate>
       
-      <guid>https://example.com/posts/ml-recipe/</guid>
+      <guid>https://dpfrakes.dev/posts/ml-recipe/</guid>
       <description>X = ingredients
 Theta = measurements/amounts
 Y = taste</description>
@@ -160,10 +160,10 @@ Y = taste</description>
     
     <item>
       <title>The Cleverness of Algorithms</title>
-      <link>https://example.com/posts/algo-tips-tricks/</link>
+      <link>https://dpfrakes.dev/posts/algo-tips-tricks/</link>
       <pubDate>Wed, 29 Sep 2021 00:00:00 -0400</pubDate>
       
-      <guid>https://example.com/posts/algo-tips-tricks/</guid>
+      <guid>https://dpfrakes.dev/posts/algo-tips-tricks/</guid>
       <description>Binary search
 metainfo = list already sorted benefit = log_n complexity filename finding:</description>
     </item>

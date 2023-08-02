@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>politics on sudo better</title>
-    <link>https://example.com/tags/politics/</link>
+    <link>https://dpfrakes.dev/tags/politics/</link>
     <description>Recent content in politics on sudo better</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Feb 2022 00:00:00 -0400</lastBuildDate><atom:link href="https://example.com/tags/politics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Feb 2022 00:00:00 -0400</lastBuildDate><atom:link href="https://dpfrakes.dev/tags/politics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>De-Sensitizing Language</title>
-      <link>https://example.com/posts/desensitizing-language/</link>
+      <link>https://dpfrakes.dev/posts/desensitizing-language/</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 -0400</pubDate>
       
-      <guid>https://example.com/posts/desensitizing-language/</guid>
+      <guid>https://dpfrakes.dev/posts/desensitizing-language/</guid>
       <description>In Biblical times, calling someone a fool was a terrible and powerful insult.</description>
     </item>
     
     <item>
       <title>How to Disagree</title>
-      <link>https://example.com/posts/how-to-disagree/</link>
+      <link>https://dpfrakes.dev/posts/how-to-disagree/</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 -0400</pubDate>
       
-      <guid>https://example.com/posts/how-to-disagree/</guid>
+      <guid>https://dpfrakes.dev/posts/how-to-disagree/</guid>
       <description>Since the widespread adoption of social media, disagreements between friends and neighbors have become more aggressive, public, and divisive.</description>
     </item>
     
     <item>
       <title>Choosing a Candidate</title>
-      <link>https://example.com/posts/choosing-a-candidate/</link>
+      <link>https://dpfrakes.dev/posts/choosing-a-candidate/</link>
       <pubDate>Wed, 29 Sep 2021 00:00:00 -0400</pubDate>
       
-      <guid>https://example.com/posts/choosing-a-candidate/</guid>
+      <guid>https://dpfrakes.dev/posts/choosing-a-candidate/</guid>
       <description>I&amp;rsquo;ll admit I am pretty jaded when it comes to politics.</description>
     </item>
     
     <item>
       <title>Democracy in the Workplace</title>
-      <link>https://example.com/posts/democratize-workplace/</link>
+      <link>https://dpfrakes.dev/posts/democratize-workplace/</link>
       <pubDate>Wed, 29 Sep 2021 00:00:00 -0400</pubDate>
       
-      <guid>https://example.com/posts/democratize-workplace/</guid>
+      <guid>https://dpfrakes.dev/posts/democratize-workplace/</guid>
       <description>WFH - levels the playing field for all employees (those already 100% remote and those having to switch to a new operating environment)</description>
     </item>
     
