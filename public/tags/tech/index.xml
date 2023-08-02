@@ -168,5 +168,14 @@ Y = taste</description>
 metainfo = list already sorted benefit = log_n complexity filename finding:</description>
     </item>
     
+    <item>
+      <title>API Hacking</title>
+      <link>https://dpfrakes.dev/posts/api-hacking/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://dpfrakes.dev/posts/api-hacking/</guid>
+      <description>In preparation for a Spartan Sprint in 2016, I subscribed to their &amp;ldquo;Workout of the Day.</description>
+    </item>
+    
   </channel>
 </rss>

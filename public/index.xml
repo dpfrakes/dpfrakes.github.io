@@ -442,12 +442,69 @@ Average tenure at companies is decreasing, especially in tech</description>
     </item>
     
     <item>
+      <title>The Making of a Club</title>
+      <link>https://dpfrakes.dev/posts/the-making-of-a-club/</link>
+      <pubDate>Fri, 05 Feb 2021 05:00:00 +0000</pubDate>
+      
+      <guid>https://dpfrakes.dev/posts/the-making-of-a-club/</guid>
+      <description>fjdskl jfkdslj fjdskl jfkdlsj
+fjdskl
+jfklds
+console.log(&amp;ldquo;hello world!&amp;rdquo;);</description>
+    </item>
+    
+    <item>
+      <title>Getting Digitally Organized</title>
+      <link>https://dpfrakes.dev/posts/getting-digitally-organized/</link>
+      <pubDate>Fri, 01 Mar 2019 02:44:54 -0500</pubDate>
+      
+      <guid>https://dpfrakes.dev/posts/getting-digitally-organized/</guid>
+      <description>After years of creating &amp;ldquo;photo dump&amp;rdquo; and &amp;ldquo;temp&amp;rdquo; directories to clear space on devices, I finally decided to make time to organize as many of my digital assets as best as I could.</description>
+    </item>
+    
+    <item>
       <title>Resume</title>
       <link>https://dpfrakes.dev/resume/</link>
       <pubDate>Fri, 01 Mar 2019 02:44:54 -0500</pubDate>
       
       <guid>https://dpfrakes.dev/resume/</guid>
       <description>Download PDF</description>
+    </item>
+    
+    <item>
+      <title>Grade Calculator</title>
+      <link>https://dpfrakes.dev/posts/grade-calculator/</link>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://dpfrakes.dev/posts/grade-calculator/</guid>
+      <description>If you&amp;rsquo;re in school and, like me, enjoy playing the &amp;ldquo;what-if&amp;rdquo; game with your grades, you might find this fun and/or helpful.</description>
+    </item>
+    
+    <item>
+      <title>API Hacking</title>
+      <link>https://dpfrakes.dev/posts/api-hacking/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://dpfrakes.dev/posts/api-hacking/</guid>
+      <description>In preparation for a Spartan Sprint in 2016, I subscribed to their &amp;ldquo;Workout of the Day.</description>
+    </item>
+    
+    <item>
+      <title>Automated Speed Test</title>
+      <link>https://dpfrakes.dev/posts/automated-speed-test/</link>
+      <pubDate>Thu, 07 Jul 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://dpfrakes.dev/posts/automated-speed-test/</guid>
+      <description>Set up a new DynamoDB table called speedtest_results with Timestamp as the primary sort key</description>
+    </item>
+    
+    <item>
+      <title>Business Trip Lessons</title>
+      <link>https://dpfrakes.dev/posts/business-trip-lessons/</link>
+      <pubDate>Mon, 30 May 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://dpfrakes.dev/posts/business-trip-lessons/</guid>
+      <description>I traveled for work almost immediately after starting my first job out of college.</description>
     </item>
     
     <item>
