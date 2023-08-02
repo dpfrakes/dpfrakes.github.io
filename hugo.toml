@@ -1,4 +1,4 @@
-baseURL = "https://dpfrakes.dev"
+baseURL = "https://dpfrakes.dev/"
 languageCode = "en-us"
 title = "sudo better"
 theme = "noteworthy"
