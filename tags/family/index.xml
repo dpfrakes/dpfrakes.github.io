@@ -1,1 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>family on sudo better</title><link>https://dpfrakes.dev/tags/family/</link><description>Recent content in family on sudo better</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 02 Feb 2022 00:00:00 -0400</lastBuildDate><atom:link href="https://dpfrakes.dev/tags/family/index.xml" rel="self" type="application/rss+xml"/><item><title>In-Laws</title><link>https://dpfrakes.dev/posts/in-laws/</link><pubDate>Wed, 02 Feb 2022 00:00:00 -0400</pubDate><guid>https://dpfrakes.dev/posts/in-laws/</guid><description>Family can be exhausting. Parents bicker, siblings fight, grandparents rant, and toddlers never run out of energy.</description></item><item><title>Committing Time</title><link>https://dpfrakes.dev/posts/committing-time/</link><pubDate>Wed, 29 Sep 2021 00:00:00 -0400</pubDate><guid>https://dpfrakes.dev/posts/committing-time/</guid><description>Family takes a back seat in day-to-day life because you know they&amp;rsquo;ll always be there</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>family on sudo better</title>
+    <link>https://dpfrakes.dev/tags/family/</link>
+    <description>Recent content in family on sudo better</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Feb 2022 00:00:00 -0400</lastBuildDate><atom:link href="https://dpfrakes.dev/tags/family/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>In-Laws</title>
+      <link>https://dpfrakes.dev/posts/in-laws/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://dpfrakes.dev/posts/in-laws/</guid>
+      <description>Family can be exhausting. Parents bicker, siblings fight, grandparents rant, and toddlers never run out of energy.</description>
+    </item>
+    
+    <item>
+      <title>Committing Time</title>
+      <link>https://dpfrakes.dev/posts/committing-time/</link>
+      <pubDate>Wed, 29 Sep 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://dpfrakes.dev/posts/committing-time/</guid>
+      <description>Family takes a back seat in day-to-day life because you know they&amp;rsquo;ll always be there</description>
+    </item>
+    
+  </channel>
+</rss>
