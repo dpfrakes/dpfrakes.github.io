@@ -20,10 +20,12 @@ that is automatically deployed to `https://dpfrakes.github.io` (a feature of
 GitHub). The content is then propagated to `https://dpfrakes.dev` via the DNS
 settings (CNAME records) configured on the domain registrar (Google Domains).
 
+The GitHub Action responsible for triggering is copied from
+https://gohugo.io/hosting-and-deployment/hosting-on-github/.
+
 ## Notes
 
 ```sh
 # Upgrade `hugo`
 brew upgrade hugo
 ```
-
