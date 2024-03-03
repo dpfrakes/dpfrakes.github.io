@@ -1,7 +1,7 @@
 ---
 title: "Starting Up"
 date: 2022-05-09T00:00:00-04:00
-draft: false
+draft: true
 tags: [work]
 ---
 

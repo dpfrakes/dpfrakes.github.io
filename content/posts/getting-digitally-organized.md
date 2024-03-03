@@ -1,7 +1,7 @@
 ---
 title: "Getting Digitally Organized"
 date: 2019-03-01T02:44:54-05:00
-draft: false
+draft: true
 tags: ["organization"]
 description: "Tools and tips to organize your computer files and folders."
 meta_img: "/img/favicon.png"

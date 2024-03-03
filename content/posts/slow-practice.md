@@ -1,7 +1,7 @@
 ---
 title: "Slow Practice"
 date: 2021-12-09T00:00:00-04:00
-draft: false
+draft: true
 tags: [work]
 ---
 

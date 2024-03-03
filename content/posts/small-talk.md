@@ -1,7 +1,7 @@
 ---
 title: "The Importance of Small Talk"
 date: 2022-10-15T00:00:00-04:00
-draft: false
+draft: true
 tags: [work]
 ---
 

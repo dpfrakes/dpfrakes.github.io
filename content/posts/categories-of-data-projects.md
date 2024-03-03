@@ -1,7 +1,7 @@
 ---
 title: "Categories of Data Projects"
 date: 2022-05-10T00:00:00-04:00
-draft: false
+draft: true
 tags: [tech]
 ---
 

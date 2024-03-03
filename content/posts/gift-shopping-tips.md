@@ -1,7 +1,7 @@
 ---
 title: "Gift Shopping Tips From a Software Engineer"
 date: 2021-09-29T00:00:00-04:00
-draft: false
+draft: true
 tags: [tech]
 ---
 

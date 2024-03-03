@@ -1,7 +1,7 @@
 ---
 title: "Keep Some Doors Closed"
 date: 2022-10-14T00:00:00-04:00
-draft: false
+draft: true
 tags: [work]
 ---
 

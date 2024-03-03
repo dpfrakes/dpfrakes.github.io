@@ -1,7 +1,7 @@
 ---
 title: "Grade Calculator"
 date: 2017-12-10T00:00:00-05:00
-draft: false
+draft: true
 tags: ["projects"]
 description: "Create your own grade calculator with a free Google Sheets template."
 meta_img: "/img/favicon.png"

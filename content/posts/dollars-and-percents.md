@@ -1,7 +1,7 @@
 ---
 title: "Dollars and Percents"
 date: 2023-01-10T00:00:00-04:00
-draft: false
+draft: true
 tags: [finance]
 ---
 

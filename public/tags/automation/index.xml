@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>automation on sudo better</title>
-    <link>https://dpfrakes.dev/tags/automation/</link>
-    <description>Recent content in automation on sudo better</description>
+    <title>Automation on sudo better</title>
+    <link>http://localhost:1313/tags/automation/</link>
+    <description>Recent content in Automation on sudo better</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jul 2016 00:00:00 -0500</lastBuildDate><atom:link href="https://dpfrakes.dev/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Jul 2016 00:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/automation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automated Speed Test</title>
-      <link>https://dpfrakes.dev/posts/automated-speed-test/</link>
+      <link>http://localhost:1313/posts/automated-speed-test/</link>
       <pubDate>Thu, 07 Jul 2016 00:00:00 -0500</pubDate>
-      
-      <guid>https://dpfrakes.dev/posts/automated-speed-test/</guid>
+      <guid>http://localhost:1313/posts/automated-speed-test/</guid>
       <description>Set up a new DynamoDB table called speedtest_results with Timestamp as the primary sort key</description>
     </item>
-    
   </channel>
 </rss>
